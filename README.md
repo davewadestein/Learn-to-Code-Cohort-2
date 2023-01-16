@@ -2,7 +2,7 @@
 * 9-12 pm Pacific / 12-3 pm Eastern
 
 * To follow along in the cloud (no download necessary)
-  * https://mybinder.org/v2/gh/davewadestein/Learn-to-Code-Cohort-1/HEAD
+  * https://mybinder.org/v2/gh/davewadestein/Learn-to-Code-Cohort-2/HEAD
   * Or use Google Colaboratory https://colab.research.google.com/
      * You will need to be logged in to your Google/GMail account
      * Go to File menu and select "Open Notebook"
