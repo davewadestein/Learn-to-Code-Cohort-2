@@ -1,10 +1,6 @@
-# Learn-to-Code Cohort 1
-* 3-6 pm Pacific / 6-9 pm Eastern
+# Learn-to-Code Cohort 2
+* 9-12 pm Pacific / 12-3 pm Eastern
 
-* [Summary of Session 1](https://github.com/davewadestein/Learn-to-Code-Cohort-1/blob/main/Session1.md)
-
-* Doodle poll for additional scheduling:
-  * https://doodle.com/meeting/organize/id/dJy327vb
 * To follow along in the cloud (no download necessary)
   * https://mybinder.org/v2/gh/davewadestein/Learn-to-Code-Cohort-1/HEAD
   * Or use Google Colaboratory https://colab.research.google.com/
@@ -22,7 +18,7 @@
   * try downloading and installing–Anaconda Navigator should be available in Start Menu (Windows) or Applications Folder (Mac)
   
 * How to download the materials (which you need to do if you want to run Anaconda locally on your machine)
-  * go to https://github.com/davewadestein/Learn-to-Code-Cohort-1
+  * go to https://github.com/davewadestein/Learn-to-Code-Cohort-2
   * click GREEN "Code" button
   * choose "Download Zip" and the materials will end up in your Downloads folder
   * you will need to double click (Mac) or right-click (Windows) to UNzip the materials
