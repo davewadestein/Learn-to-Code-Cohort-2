@@ -7,7 +7,7 @@
      * You will need to be logged in to your Google/GMail account
      * Go to File menu and select "Open Notebook"
      * Choose "GitHub" in the popup window that appears
-     * Enter __davewadestein/Learn-to-Code-Cohort-1__
+     * Enter __davewadestein/Learn-to-Code-Cohort-2__
      * Select __Learn to Code.ipynb__
      * Images won't show up in the notebook, but there aren't that many
 
