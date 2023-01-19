@@ -1,6 +1,8 @@
 # Learn-to-Code Cohort 2
 * 9-12 pm Pacific / 12-3 pm Eastern
 
+* [Summary of Session 1](https://github.com/davewadestein/Learn-to-Code-Cohort-2/blob/main/Session1.md)
+
 * To follow along in the cloud (no download necessary)
   * https://mybinder.org/v2/gh/davewadestein/Learn-to-Code-Cohort-2/HEAD
   * Or use Google Colaboratory https://colab.research.google.com/
